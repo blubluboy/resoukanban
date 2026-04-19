@@ -19,7 +19,7 @@ HOTLIST_SOURCE = "zhihu"  # 在这里修改你想看的热搜源
 
 # 3. 天气城市设置
 # 高德天气城市代码（默认：天津市津南区 120112，北京是 110000）
-CITY_ADCODE = "510000"                      
+CITY_ADCODE = "510600"                      
 
 # 日出日落位置（支持拼音，如 "Beijing" 或 "Haidian,Beijing"）
 WTTR_LOCATION = "Guangzhou"            
