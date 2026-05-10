@@ -15,7 +15,7 @@ from zhdate import ZhDate
 ENABLED_PAGES = "1,2"
 
 # 2. 热搜源设置：支持 'zhihu', 'bilibili', 'github', 'weibo'（新增）
-HOTLIST_SOURCE = 'weibo'   # 你可以改为 'weibo'、'zhihu' 等
+HOTLIST_SOURCE = 'zhihu'   # 你可以改为 'weibo'、'zhihu' 等
 
 # 3. 天气城市设置
 # 高德天气城市代码（广州：440100，北京：110000）
